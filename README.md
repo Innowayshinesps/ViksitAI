@@ -15,7 +15,7 @@ Developers often spend **over 60%** of their time trying to comprehend large, un
 
 - 📄 **Auto-generates code documentation**
 - 🧠 **Answers code-related queries**
-- 💬 **Global Community support and team collaboration 
+- 💬 **Global Community support and team collaboration** 
 - 🔍 **Visualizes GitHub projects**
 - 🛠️ **Supports real-time code compilation**
 - 🌍 **Promotes inclusive growth** by empowering developers from all backgrounds—especially from **socially backward communities**—to participate, learn, and contribute confidently.
